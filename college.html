@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Details - Al-Aboud University</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <h1>Al-Aboud University</h1>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html#about">About</a></li>
+                <li><a href="index.html#colleges">Colleges</a></li>
+                <li><a href="index.html#contact">Contact</a></li>
+            </ul>
+            <div class="nav-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- College Hero -->
+    <section class="college-hero" id="college-hero">
+        <div class="college-hero-content">
+            <h2 id="college-name" class="college-title">Loading...</h2>
+        </div>
+        <div class="hero-overlay"></div>
+    </section>
+
+    <!-- College Details -->
+    <section class="college-details">
+        <div class="container">
+            <div class="college-content">
+                <div class="college-image">
+                    <img id="college-image" src="" alt="College Image">
+                </div>
+                <div class="college-info">
+                    <h3>About the College</h3>
+                    <p id="college-description"></p>
+                    
+                    <h3>Academic Departments</h3>
+                    <ul id="departments-list" class="departments-list">
+                        <!-- Departments will be loaded here -->
+                    </ul>
+                    
+                    <a href="index.html#colleges" class="btn btn-secondary">Back to All Colleges</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Al-Aboud University. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/college.js"></script>
+</body>
+</html>

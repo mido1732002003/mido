@@ -1,0 +1,138 @@
+{
+  "colleges": [
+    {
+      "id": "advanced-engineering",
+      "name": "College of Advanced Engineering",
+      "shortDescription": "Pioneering the future of engineering through innovative research and cutting-edge technology.",
+      "description": "The College of Advanced Engineering at Al-Aboud University stands at the forefront of technological innovation, preparing students to become leaders in the rapidly evolving field of engineering. Our state-of-the-art facilities and world-class faculty provide an environment where creativity meets practical application. Students engage in hands-on projects that address real-world challenges, from sustainable infrastructure to aerospace systems. Through our comprehensive curriculum and industry partnerships, graduates emerge ready to shape the future of engineering on a global scale.",
+      "image": "engineering.jpg",
+      "departments": [
+        "Department of Aerospace Engineering",
+        "Department of Biomedical Engineering",
+        "Department of Sustainable Infrastructure",
+        "Department of Robotics and Automation",
+        "Department of Materials Science"
+      ]
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "College of Artificial Intelligence",
+      "shortDescription": "Leading the AI revolution with groundbreaking research and ethical innovation.",
+      "description": "The College of Artificial Intelligence represents Al-Aboud University's commitment to shaping the future of intelligent systems. Our interdisciplinary approach combines computer science, mathematics, cognitive science, and ethics to create AI solutions that benefit humanity. Students work on cutting-edge projects in machine learning, natural language processing, and computer vision while considering the societal implications of their work. Our graduates are equipped not just with technical expertise, but with the wisdom to guide AI development responsibly.",
+      "image": "ai.jpg",
+      "departments": [
+        "Department of Machine Learning",
+        "Department of Natural Language Processing",
+        "Department of Computer Vision",
+        "Department of AI Ethics and Policy"
+      ]
+    },
+    {
+      "id": "digital-medicine",
+      "name": "College of Digital Medicine",
+      "shortDescription": "Transforming healthcare through digital innovation and personalized medicine.",
+      "description": "The College of Digital Medicine bridges the gap between traditional medical practice and cutting-edge digital technology. Our innovative curriculum prepares healthcare professionals for a future where AI-assisted diagnostics, telemedicine, and personalized treatment plans are the norm. Students learn to leverage big data, genomics, and digital health platforms to improve patient outcomes. Through partnerships with leading hospitals and tech companies, our graduates are uniquely positioned to lead the digital transformation of healthcare.",
+      "image": "medicine.jpg",
+      "departments": [
+        "Department of Telemedicine and Remote Care",
+        "Department of Medical Informatics",
+        "Department of Precision Medicine",
+        "Department of Digital Health Innovation",
+        "Department of Medical AI Applications"
+      ]
+    },
+    {
+      "id": "future-sciences",
+      "name": "College of Future Sciences",
+      "shortDescription": "Exploring emerging scientific frontiers that will define tomorrow's world.",
+      "description": "The College of Future Sciences is dedicated to investigating and developing the scientific breakthroughs that will shape the next century. Our interdisciplinary programs encourage students to think beyond traditional boundaries, exploring fields like quantum computing, synthetic biology, and nanotechnology. With access to advanced research facilities and collaboration opportunities with international institutions, students are empowered to push the limits of human knowledge and create solutions for challenges we haven't yet imagined.",
+      "image": "future-sciences.jpg",
+      "departments": [
+        "Department of Quantum Sciences",
+        "Department of Synthetic Biology",
+        "Department of Nanotechnology",
+        "Department of Space Sciences"
+      ]
+    },
+    {
+      "id": "smart-management",
+      "name": "College of Smart Management",
+      "shortDescription": "Developing agile leaders for the digital economy and sustainable business practices.",
+      "description": "The College of Smart Management prepares the next generation of business leaders to thrive in an increasingly complex and digital world. Our programs blend traditional management principles with cutting-edge topics like blockchain, sustainable business models, and data-driven decision making. Students learn to navigate global markets, lead diverse teams, and create value while maintaining ethical standards. Through real-world case studies and partnerships with industry leaders, graduates emerge ready to drive innovation and positive change in any organization.",
+      "image": "management.jpg",
+      "departments": [
+        "Department of Digital Business Strategy",
+        "Department of Sustainable Management",
+        "Department of Financial Technology",
+        "Department of Global Leadership"
+      ]
+    },
+    {
+      "id": "global-languages",
+      "name": "College of Global Languages",
+      "shortDescription": "Fostering cross-cultural communication and linguistic excellence in a connected world.",
+      "description": "The College of Global Languages recognizes that effective communication across cultures is essential in our interconnected world. Our programs go beyond traditional language instruction to include cultural studies, translation technology, and intercultural communication strategies. Students develop fluency in multiple languages while gaining insights into global perspectives and cultural contexts. With immersive learning experiences and opportunities to connect with native speakers worldwide, graduates become bridge-builders in diplomatic, business, and humanitarian contexts.",
+      "image": "languages.jpg",
+      "departments": [
+        "Department of Asian Languages and Cultures",
+        "Department of European Languages and Cultures",
+        "Department of Digital Translation Technology",
+        "Department of Intercultural Communication"
+      ]
+    },
+    {
+      "id": "modern-media",
+      "name": "College of Modern Media",
+      "shortDescription": "Crafting compelling narratives across platforms in the digital media landscape.",
+      "description": "The College of Modern Media trains content creators and communicators for the rapidly evolving digital landscape. Our comprehensive approach covers traditional journalism, social media strategy, immersive technologies like VR and AR, and data-driven storytelling. Students learn to create impactful content that resonates with diverse audiences while upholding principles of accuracy and ethical communication. With cutting-edge production facilities and opportunities to collaborate with media organizations, graduates become versatile professionals capable of shaping public discourse through multiple channels.",
+      "image": "media.jpg",
+      "departments": [
+        "Department of Digital Journalism",
+        "Department of Social Media and Content Strategy",
+        "Department of Immersive Media Technology",
+        "Department of Visual Communication",
+        "Department of Data Journalism"
+      ]
+    },
+    {
+      "id": "interactive-arts",
+      "name": "College of Interactive Arts",
+      "shortDescription": "Merging artistic expression with technology to create immersive experiences.",
+      "description": "The College of Interactive Arts sits at the intersection of creative expression and technological innovation. Our students combine artistic vision with technical skills to develop interactive experiences that challenge and inspire. From game design to interactive installations, digital art to motion graphics, our programs encourage experimentation and boundary-pushing. Our studios are equipped with the latest tools and technologies, allowing students to bring their most ambitious creative visions to life. Graduates emerge as versatile artists ready to redefine entertainment and artistic expression in the digital age.",
+      "image": "arts.jpg",
+      "departments": [
+        "Department of Game Design and Development",
+        "Department of Interactive Narratives",
+        "Department of Digital Arts and Animation",
+        "Department of Experiential Design"
+      ]
+    },
+    {
+      "id": "cyber-law",
+      "name": "College of Cyber Law",
+      "shortDescription": "Navigating the complex legal landscape of the digital realm and emerging technologies.",
+      "description": "The College of Cyber Law addresses the unprecedented legal challenges emerging from our increasingly digital world. Our curriculum explores intellectual property in the digital age, privacy law, cybersecurity regulations, and the legal implications of emerging technologies like blockchain and artificial intelligence. Students develop a deep understanding of both traditional legal principles and cutting-edge digital issues. Through moot courts, internships with tech companies, and policy development exercises, graduates become legal experts equipped to guide organizations through the complex intersection of technology and law.",
+      "image": "cyber-law.jpg",
+      "departments": [
+        "Department of Digital Privacy and Data Protection",
+        "Department of Intellectual Property in the Digital Age",
+        "Department of Cybersecurity Law",
+        "Department of Technology Policy and Regulation"
+      ]
+    },
+    {
+      "id": "sustainable-energy",
+      "name": "College of Sustainable Energy",
+      "shortDescription": "Creating clean energy solutions for a sustainable future through innovation and policy.",
+      "description": "The College of Sustainable Energy is dedicated to addressing one of humanity's most pressing challenges: transitioning to clean, renewable energy sources. Our multidisciplinary approach combines engineering, environmental science, economics, and policy studies to develop comprehensive energy solutions. Students work on projects ranging from advanced solar technology to smart grid systems, energy storage innovations to sustainable urban planning. Through partnerships with industry leaders and government agencies, graduates are prepared to lead the global energy transition and create a more sustainable world for future generations.",
+      "image": "energy.jpg",
+      "departments": [
+        "Department of Renewable Energy Engineering",
+        "Department of Energy Storage Systems",
+        "Department of Smart Grid Technology",
+        "Department of Energy Policy and Economics",
+        "Department of Sustainable Urban Energy Planning"
+      ]
+    }
+  ]
+}
